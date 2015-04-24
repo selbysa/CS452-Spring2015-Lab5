@@ -1,1 +1,3 @@
-name, date, description
+Sarah, 4/24/15
+
+Two shapes in the scene, one is a stationary plane. The other one is a rotating 3d object that casts a shadow on to the plane.
